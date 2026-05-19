@@ -1,2 +1,2 @@
 # MRA_Covell
-Block map for Covell sector orchards
+A web map of Covell sector orchards can be found here.
